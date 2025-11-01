@@ -57,7 +57,7 @@
   margin-top: 32px;
 }
 
-#buttons .topButtons, #buttons .botButtons {
+#buttons .top-buttons, #buttons .bot-buttons {
   display: inline-flex;
   width: 100%;
   justify-content: center;

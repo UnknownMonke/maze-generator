@@ -902,7 +902,6 @@
          */
         function findPath(visited, startCell, endCell) {
             let current = endCell;
-    
             let path = [];
     
             while(!equals(current, startCell)) {
